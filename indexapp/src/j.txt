@@ -1,0 +1,8 @@
+// Countries.map((country)=>{
+        //   return(
+        //     <div className='data'>
+        //       <h3>{country.name}</h3>
+        //       <p>{country.Capital}</p>
+        //       </div>
+        //   )
+        // })
